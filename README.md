@@ -7,3 +7,4 @@
 * Added Dialogs
 * Added Widgets
 * Added Widgets2
+* Added Drag and Drop
