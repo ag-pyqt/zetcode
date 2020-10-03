@@ -10,3 +10,8 @@
 * Added Drag and Drop
 * Added Painting
 * Added Custom Widgets
+* Added Tetris Game
+
+---
+
+All Zetcode tutorials for PyQT5 are now finished
