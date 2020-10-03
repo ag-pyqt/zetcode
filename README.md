@@ -9,3 +9,4 @@
 * Added Widgets2
 * Added Drag and Drop
 * Added Painting
+* Added Custom Widgets
